@@ -5,6 +5,7 @@ RCS Data Analysis course with Python
 
 ## Goal
 Build a complete data analysis pipeline using Python ecosystem
+
 * Define the problem
 * Gather the raw data
 * Process (clean) the data
