@@ -4,7 +4,7 @@ RCS Data Analysis course with Python
 ## Course Plan
 
 ## Goal
-Build a complete data analysis pipeline 
+Build a complete data analysis pipeline using Python ecosystem
 
 ### Setup (2h)
 * Git and Github
@@ -36,20 +36,27 @@ Build a complete data analysis pipeline
 * other NoSQL databases
 
 #### Big Data(2-4h)
+* The 4 Vs - (volume, variety, velocity, veracity)
 * Apache Hadoop Ecosystem
 * Apache Lucene -> Elasticsearch
 
 ### Cleaning Data (2-6h)
 * advancing your NumPy, Pandas skills
 
-### Analysis and Data Exploration(4-6h)
+### Analysis and Data Exploration(4-10h)
 * Pandas, matplotlib etc
+
+#### Social Network Analytics
+* Graph Analysis (Network Analysis)
 
 ### Machine Learning with Python (6-10h)
 #### Principles of ML -
 * test/train data
 * supervised/unsupervised learning
+* classifiers
+* regressors
 
+#### ML Tools
 * scikit-learn
 * TensorFlow with Keras
 * PyTorch
@@ -59,6 +66,12 @@ Build a complete data analysis pipeline
 * PowerBI OR Tableau
 * Python visualization libraries (mathplotlib, Seaborn)
 * Graphviz
+
+### Useful Python Libraries (2-6h)
+* PDF processing
+* email
+* PyQT
+* nltk
 
 ### Building a complete data analysis pipeline (4-6h)
 * Course Project
