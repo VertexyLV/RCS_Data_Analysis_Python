@@ -56,6 +56,7 @@ Build a complete data analysis pipeline using Python ecosystem
 * Graph Analysis (Network Analysis)
 
 ### Machine Learning with Python (6-10h)
+Note: ML section may be expanded if good progress is made in other sections :)
 #### Principles of ML -
 * test/train data
 * supervised/unsupervised learning
