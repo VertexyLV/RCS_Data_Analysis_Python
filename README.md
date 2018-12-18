@@ -88,3 +88,7 @@ Tools of the trade:
 
 Anaconda Distribution(Python, R and more)
 https://www.anaconda.com/download/
+
+### Survey
+Students, please fill out a brief survey before starting the course:
+https://docs.google.com/forms/d/e/1FAIpQLSc_ODlnXNKz4uYYokCb2ED-ZAYQRVEurTTuNawAfMPbEd61Rg/viewform?usp=pp_url
