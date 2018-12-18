@@ -3,6 +3,9 @@ RCS Data Analysis course with Python
 
 ## Course Plan
 
+## Goal
+Build a complete data analysis pipeline 
+
 ### Setup (2h)
 * Git and Github
 * Text Editors
@@ -10,11 +13,13 @@ RCS Data Analysis course with Python
 * cloud based tools (Google Colab, myBinder, etc)
 
 ### General Python Introduction (10h)
-* basic data types
+* basic data types 
+* working with compound data(slicing)
 * structure (functions, classes, )
 * program flow (conditionals)
 * input/output
 * importing external libraries
+* introduction to NumPy, Pandas
 
 ### Gathering Data with Python (2-4h)
 * web scraping with Selenium, Beautiful Soup
@@ -30,9 +35,33 @@ RCS Data Analysis course with Python
 * MongoDB
 * other NoSQL databases
 
+#### Big Data(2-4h)
+* Apache Hadoop Ecosystem
+* Apache Lucene -> Elasticsearch
+
+### Cleaning Data (2-6h)
+* advancing your NumPy, Pandas skills
+
+### Analysis and Data Exploration(4-6h)
+* Pandas, matplotlib etc
+
+### Machine Learning with Python (6-10h)
+#### Principles of ML -
+* test/train data
+* supervised/unsupervised learning
+
+* scikit-learn
+* TensorFlow with Keras
+* PyTorch
+
+
 #### Visualization (4-6h)
 * PowerBI OR Tableau
+* Python visualization libraries (mathplotlib, Seaborn)
+* Graphviz
 
+### Building a complete data analysis pipeline (4-6h)
+* Course Project
 
 Tools of the trade:
 
