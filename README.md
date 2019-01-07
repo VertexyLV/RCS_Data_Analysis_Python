@@ -74,6 +74,7 @@ Note: ML section may be expanded if good progress is made in other sections :)
 * PowerBI OR Tableau
 * Python visualization libraries (mathplotlib, Seaborn)
 * Graphviz
+* Dash/Plotly
 
 ### Useful Python Libraries (2-6h)
 * PDF processing
