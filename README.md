@@ -1,6 +1,9 @@
 # RCS_Data_Analysis_Python
 RCS Data Analysis course with Python
 
+### Binder(hosted Jupyter notebooks) Beta
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/RCS_Data_Analysis_Python/master)
+
 ## Course Plan
 
 ## Goal
