@@ -9,7 +9,7 @@ https://www.atlassian.com/git/tutorials/what-is-git
 https://git-scm.com/downloads
 
 ## Start using the repo run in terminal: 
-*git clone https://github.com/ValRCS/RCS_Python.git*
+*git clone https://github.com/ValRCS/RCS_Data_Analysis_Python.git*
 * clones whole repo in the current working directory from which you run git clone
 
 * git log shows revision history with SHA1 hash value for each revision
