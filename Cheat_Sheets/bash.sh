@@ -2,6 +2,10 @@
 ##############################################################################
 # SHORTCUTS
 ##############################################################################
+# forked from https://github.com/LeCoupa/awesome-cheatsheets under MIT license
+
+TAB # completion 
+# https://www.howtogeek.com/195207/use-tab-completion-to-type-commands-faster-on-any-operating-system/
 
 
 CTRL+A  # move to beginning of line
