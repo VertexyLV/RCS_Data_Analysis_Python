@@ -2,7 +2,7 @@
 
 ![NumPy](http://www.numpy.org/_static/numpy_logo.png)
 
-NumPy is the fundamental package for scientific computing with Python. It contains among other things:
+[NumPy](http://www.numpy.org/) is the fundamental package for scientific computing with Python. It contains among other things:
 
 * a powerful N-dimensional array object
 * sophisticated (broadcasting) functions
