@@ -8,4 +8,5 @@ https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet
 # Input Validation
 
 # Parameterized Queries 
+(When Connected to MySQL)
 https://pynative.com/python-mysql-execute-parameterized-query-using-prepared-statement/
