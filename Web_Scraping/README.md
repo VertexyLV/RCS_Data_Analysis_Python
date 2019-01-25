@@ -1,6 +1,6 @@
 # What is Web Scraping ?
 
-Web scraping is a term for various methods used to collect information from across the Internet. Generally, this is done with software that simulates human Web surfing to collect specified bits of information from different websites.
+Web scraping is a term for various methods used to collect information from across the Internet. Generally, this is done with software that simulates human Web surfing to collect specified bits of information from different websites. Via [Technopedia](https://www.techopedia.com/definition/5212/web-scraping)
 
 ## Various methods of web scraping with Python
 
