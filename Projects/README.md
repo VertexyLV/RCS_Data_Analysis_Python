@@ -32,6 +32,10 @@ https://www.kaggle.com/datasets
 Also check out popular kernels(basically notebooks)
 https://www.kaggle.com/kernels
 
+Competitions:
+
+https://www.kaggle.com/c/LANL-Earthquake-Prediction?&utm_medium=email&utm_source=intercom&utm_campaign=jan-news-comp-launch
+
 
 
 
