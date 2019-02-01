@@ -11,7 +11,28 @@
 * Combining Data from various sources
 * Exploratory Analysis
 * Deciding on which methods to use (simple statistics, regressions, maybe some more advanced ML algorithms)
+  * Classification
+  * Regression 
+  * Optimization
 * Visualizing Data (we will look a building a Dashboard at the end)
+
+## Some Project ideas:
+
+24 solid projects:
+   https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+   
+   We will look at the Iris set so do not do that one! :)
+   
+I suggest Beginner to Intermediate
+
+Another source of data and projects are Kaggle datasets
+
+https://www.kaggle.com/datasets
+
+Also check out popular kernels(basically notebooks)
+https://www.kaggle.com/kernels
+
+
 
 
 
