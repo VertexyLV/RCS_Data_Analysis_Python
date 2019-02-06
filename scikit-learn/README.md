@@ -3,7 +3,7 @@
 
 ![scikit-learn](https://scikit-learn.org/stable/_images/sphx_glr_plot_classifier_comparison_001_carousel.png)
 
-https://scikit-learn.or
+https://scikit-learn.org
 
 * Simple and efficient tools for data mining and data analysis
 * Accessible to everybody, and reusable in various contexts
